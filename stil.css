@@ -14,3 +14,8 @@ h2  {
 .pozadina{background-color: aliceblue}
 .drugapozadina{
 	background-color:aliceblue;	}
+.tekst {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 10px;
+}
