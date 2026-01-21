@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+p { 
+  color:mediumpurple;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	font-height:18px;
+} 
+h2  { 
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color:darkmagenta;
+	}
+	span{color:hotpink}
+.pozadina{background-color: aliceblue}
+.drugapozadina{
+	background-color:aliceblue;	}
